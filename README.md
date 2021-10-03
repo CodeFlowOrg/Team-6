@@ -1,7 +1,7 @@
 # Team-6
 # AI/ML Team 
 
-  
+  ![Hactoberfest](https://img.shields.io/badge/Hactoberfest-21-purple)
   [![Number of Contributors](https://img.shields.io/github/contributors/CodeFlow201/Team-5)](https://github.com/CodeFlow201/Team-5/graphs/contributors)
   [![GitHub forks](https://img.shields.io/github/forks/CodeFlow201/Team-5)](https://github.com/CodeFlow201/Team-5/network)
   [![GitHub Issues](https://img.shields.io/github/issues/CodeFlow201/Team-5)](https://github.com/CodeFlow201/Team-5/issues)
