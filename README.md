@@ -11,7 +11,7 @@
 </p>
 
 # Wall Street
-<p>This project is a reinforcement learing model that will be used for stock price prediction. Since most of the people are indulging into trading practises to earn a side income this model will help them in accomplishing that. It can also be used by professional traders.</P>
+<p>This project is a reinforcement learning model that will be used for stock price prediction. Since most of the people are indulging into trading practises to earn a side income this model will help them in accomplishing that. It can also be used by professional traders.</P>
 
 
 ## Tech Stack
