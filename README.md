@@ -10,6 +10,14 @@
 	<img src="https://static.wixstatic.com/media/bb7b70_d5fde322f7914060b7d997ba9d506a50~mv2.gif" width=400 height=300 alt="Banner">
 </p>
 
+# Wall Street
+<p>This project is a reinforcement learing model that will be used for stock price prediction. Since most of the people are indulging into trading practises to earn a side income this model will help them in accomplishing that. It can also be used by professional traders.</P>
+
+
+## Tech Stack
+- Python
+- Keras
+- Numpy
 
 ## 👨‍💻 Mentors
 
