@@ -11,7 +11,7 @@
 </p>
 
 # Wall Street
-<p>This project is a reinforcement learning model that will be used for stock price prediction. Since most of the people are indulging into trading practises to earn a side income this model will help them in accomplishing that. It can also be used by professional traders.</P>
+<p>This project is a reinforcement learning model that will be used for stock price prediction. Since most people are indulging in trading practices to earn a side income this model will help them in accomplishing that. It can also be used by professional traders.</P>
 
 
 ## Tech Stack
@@ -21,7 +21,7 @@
 
 
 ## Contributing
-Shouting out to all of you who are interested in open-source contribution in the field technologies like  Machine Learning(ML) and Deep Learning(DL)  and by using the most famous and easy programming language - Python, this is the place where you can contribute, learn and get a wonderful experience to showcase your skills. Any contributions you make are extremely appreciated.
+Shouting out to all of you who are interested in open-source contribution in the field of technologies like  Machine Learning(ML) and Deep Learning(DL)  and by using the most famous and easy programming language - Python, this is the place where you can contribute, learn and get a wonderful experience to showcase your skills. Any contributions you make are extremely appreciated.
 
 Please see [CONTRIBUTING.md](https://github.com/CodeFlow201/Team-6/blob/master/CONTRIBUTING.md)
 
