@@ -2,10 +2,11 @@
 # AI/ML Team 
 
   ![Hactoberfest](https://img.shields.io/badge/Hactoberfest-21-purple)
-  [![Number of Contributors](https://img.shields.io/github/contributors/CodeFlow201/Team-5)](https://github.com/CodeFlow201/Team-5/graphs/contributors)
-  [![GitHub forks](https://img.shields.io/github/forks/CodeFlow201/Team-5)](https://github.com/CodeFlow201/Team-5/network)
-  [![GitHub Issues](https://img.shields.io/github/issues/CodeFlow201/Team-5)](https://github.com/CodeFlow201/Team-5/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/CodeFlow201/Team-5/pulls)
+  [![Number of Contributors](https://img.shields.io/github/contributors/CodeFlow201/Team-6)](https://github.com/CodeFlow201/Team-6/graphs/contributors)
+  [![GitHub forks](https://img.shields.io/github/forks/CodeFlow201/Team-6)](https://github.com/CodeFlow201/Team-6/network)
+  [![GitHub Issues](https://img.shields.io/github/issues/CodeFlow201/Team-6)](https://github.com/CodeFlow201/Team-6/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/CodeFlow201/Team-6/pulls)
+  [![PRs closed](https://img.shields.io/github/issues-pr-closed/CodeFlow201/Team-6)](https://github.com/CodeFlow201/Team-6/pulls)
 <p align="center">
 	<img src="https://static.wixstatic.com/media/bb7b70_d5fde322f7914060b7d997ba9d506a50~mv2.gif" width=400 height=300 alt="Banner">
 </p>
