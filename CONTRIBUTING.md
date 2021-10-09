@@ -144,7 +144,7 @@ $ git push --set-upstream origin new-branch
 Next up, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
 
 ````bash
-git remote add upstream https://github.com/your-username/Team-9.git
+git remote add upstream https://github.com/your-username/Team-6.git
 ````
 
 In this example, `upstream` is the short name we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the short name.
