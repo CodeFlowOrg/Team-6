@@ -48,7 +48,7 @@ Once we have the URL, we’re ready to clone the repository. To do this, we’ll
 
 
 ````bash
-$ git clone https://github.com/your-username/Team-9.git
+$ git clone https://github.com/your-username/Team-6.git
 ````
 
 ### 3. Navigate to the project directory :file_folder: 
