@@ -45,7 +45,6 @@ Please see [CONTRIBUTING.md](https://github.com/CodeFlow201/Team-6/blob/master/C
     <td align="center"><a href="https://github.com/VijayHitler"><img src="https://avatars.githubusercontent.com/u/81073247?v=4" width="100px;" alt=""/><br /><sub><b>Dharnish R S</b></sub></a></td>
     <td align="center"><a href="https://github.com/priyankkhanna"><img src="https://avatars.githubusercontent.com/u/55731241?v=4" width="100px;" alt=""/><br /><sub><b>Priyank Khanna</b></sub></a></td>
     <td align="center"><a href="https://github.com/SadiaFirdous"><img src="https://avatars.githubusercontent.com/u/74552217?v=4" width="100px;" alt=""/><br /><sub><b>Sadia Firdous</b></sub></a></td>
-    <td align="center"><a href="https://github.com/sejalxz"><img src="https://avatars.githubusercontent.com/u/71432400?v=4" width="100px;" alt=""/><br /><sub><b>Sejal Dahake</b></sub></a></td>
     <td align="center"><a href="https://github.com/MrNobody09"><img src="https://avatars.githubusercontent.com/u/75740971?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Nalin Verma</b></sub></a></td>
   </tr>
   
